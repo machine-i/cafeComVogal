@@ -10,3 +10,7 @@ retorna um dicionário. Uma de suas chaves é a `vogais`, a qual contém uma lis
 vogais existentes na string passada como parâmetro na função, e a outra é a
 `vogais_com_indice`, a qual contém uma lista com as vogais e seus respectivos índices na 
 string.
+
+# Para usar
+
+Basta no seu computador, com alguma versão 3 do python instalado, executar ```pip install cafeComVogal``` no terminal. Com isso já poderá importar em seus scripts python.
